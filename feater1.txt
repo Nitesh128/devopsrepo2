@@ -2,3 +2,4 @@ file 2 as first was delete
 this is the 2nd line adding from Master Branch
 this is the 3rd line adding from Feater1 Branch
 this is the 5th line adding from Feater1 Branch
+this is the 7th line adding from Feater1 Branch to create conflict b/w remote and local repos.
