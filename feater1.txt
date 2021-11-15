@@ -1,1 +1,2 @@
-file 2 as first was deleted
+file 2 as first was delete
+this is the 2nd line adding from Master
